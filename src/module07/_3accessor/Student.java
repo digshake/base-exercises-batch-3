@@ -1,4 +1,4 @@
-package _3accessor;
+package module07._3accessor;
 
 public class Student 
 {

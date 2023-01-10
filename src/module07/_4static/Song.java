@@ -1,4 +1,4 @@
-package _4static;
+package module07._4static;
 
 public class Song 
 { 

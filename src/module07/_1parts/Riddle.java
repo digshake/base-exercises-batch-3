@@ -1,4 +1,4 @@
-package _1parts;
+package module07._1parts;
 
 public class Riddle
 {
