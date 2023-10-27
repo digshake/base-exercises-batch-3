@@ -1,4 +1,4 @@
-package module08._03equality;
+package module09._04equality;
 
 import java.util.HashSet;
 import java.util.Objects;
